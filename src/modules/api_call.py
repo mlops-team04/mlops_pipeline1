@@ -10,3 +10,4 @@ url = f'http://openapi.seoul.go.kr:8088/{api_key}/json/CardSubwayStatsNew/1/5/20
 
 response = requests.get(url)
 response_content = response.content
+

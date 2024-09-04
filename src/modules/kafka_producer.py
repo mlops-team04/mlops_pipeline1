@@ -1,4 +1,5 @@
 from kafka import KafkaProducer
+
 from api_call import response_content
 
 # Kafka 프로듀서 인스턴스 생성
