@@ -1,0 +1,4938 @@
+[
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "서울역",
+        "GTON_TNOPE": 46037.0,
+        "GTOFF_TNOPE": 43298.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "시청",
+        "GTON_TNOPE": 18131.0,
+        "GTOFF_TNOPE": 18531.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "종각",
+        "GTON_TNOPE": 21982.0,
+        "GTOFF_TNOPE": 21836.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "종로3가",
+        "GTON_TNOPE": 24333.0,
+        "GTOFF_TNOPE": 22925.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "종로5가",
+        "GTON_TNOPE": 21058.0,
+        "GTOFF_TNOPE": 20384.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "동대문",
+        "GTON_TNOPE": 12033.0,
+        "GTOFF_TNOPE": 12087.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "신설동",
+        "GTON_TNOPE": 11137.0,
+        "GTOFF_TNOPE": 10457.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "제기동",
+        "GTON_TNOPE": 16753.0,
+        "GTOFF_TNOPE": 17327.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "청량리(서울시립대입구)",
+        "GTON_TNOPE": 22512.0,
+        "GTOFF_TNOPE": 22442.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "1호선",
+        "SBWY_STNS_NM": "동묘앞",
+        "GTON_TNOPE": 12703.0,
+        "GTOFF_TNOPE": 12897.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "시청",
+        "GTON_TNOPE": 14084.0,
+        "GTOFF_TNOPE": 11794.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "을지로입구",
+        "GTON_TNOPE": 33059.0,
+        "GTOFF_TNOPE": 33098.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "을지로3가",
+        "GTON_TNOPE": 14930.0,
+        "GTOFF_TNOPE": 15082.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "을지로4가",
+        "GTON_TNOPE": 10048.0,
+        "GTOFF_TNOPE": 9990.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "동대문역사문화공원(DDP)",
+        "GTON_TNOPE": 14750.0,
+        "GTOFF_TNOPE": 16787.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신당",
+        "GTON_TNOPE": 12764.0,
+        "GTOFF_TNOPE": 13652.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "상왕십리",
+        "GTON_TNOPE": 10628.0,
+        "GTOFF_TNOPE": 10225.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "왕십리(성동구청)",
+        "GTON_TNOPE": 13700.0,
+        "GTOFF_TNOPE": 13222.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "한양대",
+        "GTON_TNOPE": 4893.0,
+        "GTOFF_TNOPE": 5030.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "뚝섬",
+        "GTON_TNOPE": 18436.0,
+        "GTOFF_TNOPE": 18129.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "성수",
+        "GTON_TNOPE": 32891.0,
+        "GTOFF_TNOPE": 38100.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "건대입구",
+        "GTON_TNOPE": 35447.0,
+        "GTOFF_TNOPE": 37965.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "구의(광진구청)",
+        "GTON_TNOPE": 19025.0,
+        "GTOFF_TNOPE": 17862.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "강변(동서울터미널)",
+        "GTON_TNOPE": 26826.0,
+        "GTOFF_TNOPE": 26688.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "잠실나루",
+        "GTON_TNOPE": 8617.0,
+        "GTOFF_TNOPE": 8162.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "잠실(송파구청)",
+        "GTON_TNOPE": 75390.0,
+        "GTOFF_TNOPE": 72785.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "잠실새내",
+        "GTON_TNOPE": 20607.0,
+        "GTOFF_TNOPE": 21143.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "종합운동장",
+        "GTON_TNOPE": 21359.0,
+        "GTOFF_TNOPE": 24369.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "삼성(무역센터)",
+        "GTON_TNOPE": 32809.0,
+        "GTOFF_TNOPE": 32127.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "선릉",
+        "GTON_TNOPE": 29997.0,
+        "GTOFF_TNOPE": 26325.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "역삼",
+        "GTON_TNOPE": 19778.0,
+        "GTOFF_TNOPE": 21886.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "강남",
+        "GTON_TNOPE": 59012.0,
+        "GTOFF_TNOPE": 58918.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "교대(법원.검찰청)",
+        "GTON_TNOPE": 16830.0,
+        "GTOFF_TNOPE": 20778.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "서초",
+        "GTON_TNOPE": 13849.0,
+        "GTOFF_TNOPE": 12410.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "방배",
+        "GTON_TNOPE": 10497.0,
+        "GTOFF_TNOPE": 10567.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "사당",
+        "GTON_TNOPE": 37133.0,
+        "GTOFF_TNOPE": 40051.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "낙성대(강감찬)",
+        "GTON_TNOPE": 22892.0,
+        "GTOFF_TNOPE": 21113.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "서울대입구(관악구청)",
+        "GTON_TNOPE": 38263.0,
+        "GTOFF_TNOPE": 36546.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "봉천",
+        "GTON_TNOPE": 19143.0,
+        "GTOFF_TNOPE": 17244.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신림",
+        "GTON_TNOPE": 47580.0,
+        "GTOFF_TNOPE": 44939.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신대방",
+        "GTON_TNOPE": 20630.0,
+        "GTOFF_TNOPE": 19125.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "구로디지털단지",
+        "GTON_TNOPE": 38147.0,
+        "GTOFF_TNOPE": 37421.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "대림(구로구청)",
+        "GTON_TNOPE": 19285.0,
+        "GTOFF_TNOPE": 19998.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신도림",
+        "GTON_TNOPE": 47648.0,
+        "GTOFF_TNOPE": 48065.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "문래",
+        "GTON_TNOPE": 14743.0,
+        "GTOFF_TNOPE": 15770.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "영등포구청",
+        "GTON_TNOPE": 14150.0,
+        "GTOFF_TNOPE": 14893.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "당산",
+        "GTON_TNOPE": 13593.0,
+        "GTOFF_TNOPE": 14237.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "합정",
+        "GTON_TNOPE": 31819.0,
+        "GTOFF_TNOPE": 37042.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "홍대입구",
+        "GTON_TNOPE": 83841.0,
+        "GTOFF_TNOPE": 95403.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신촌",
+        "GTON_TNOPE": 35122.0,
+        "GTOFF_TNOPE": 36029.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "이대",
+        "GTON_TNOPE": 12945.0,
+        "GTOFF_TNOPE": 13685.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "아현",
+        "GTON_TNOPE": 8606.0,
+        "GTOFF_TNOPE": 7780.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "충정로(경기대입구)",
+        "GTON_TNOPE": 6541.0,
+        "GTOFF_TNOPE": 6789.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "용답",
+        "GTON_TNOPE": 2416.0,
+        "GTOFF_TNOPE": 2245.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신답",
+        "GTON_TNOPE": 1052.0,
+        "GTOFF_TNOPE": 1057.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신설동",
+        "GTON_TNOPE": 3703.0,
+        "GTOFF_TNOPE": 3489.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "도림천",
+        "GTON_TNOPE": 914.0,
+        "GTOFF_TNOPE": 929.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "양천구청",
+        "GTON_TNOPE": 4803.0,
+        "GTOFF_TNOPE": 4800.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "신정네거리",
+        "GTON_TNOPE": 7934.0,
+        "GTOFF_TNOPE": 7967.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "2호선",
+        "SBWY_STNS_NM": "용두(동대문구청)",
+        "GTON_TNOPE": 1980.0,
+        "GTOFF_TNOPE": 1899.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "지축",
+        "GTON_TNOPE": 5725.0,
+        "GTOFF_TNOPE": 5512.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "구파발",
+        "GTON_TNOPE": 18315.0,
+        "GTOFF_TNOPE": 17960.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "연신내",
+        "GTON_TNOPE": 29831.0,
+        "GTOFF_TNOPE": 28142.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "불광",
+        "GTON_TNOPE": 14018.0,
+        "GTOFF_TNOPE": 14944.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "녹번",
+        "GTON_TNOPE": 10941.0,
+        "GTOFF_TNOPE": 9603.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "홍제",
+        "GTON_TNOPE": 14272.0,
+        "GTOFF_TNOPE": 13157.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "무악재",
+        "GTON_TNOPE": 3276.0,
+        "GTOFF_TNOPE": 3254.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "독립문",
+        "GTON_TNOPE": 6455.0,
+        "GTOFF_TNOPE": 6718.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "경복궁(정부서울청사)",
+        "GTON_TNOPE": 19698.0,
+        "GTOFF_TNOPE": 20442.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "안국",
+        "GTON_TNOPE": 20819.0,
+        "GTOFF_TNOPE": 22963.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "종로3가",
+        "GTON_TNOPE": 8526.0,
+        "GTOFF_TNOPE": 11425.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "을지로3가",
+        "GTON_TNOPE": 7269.0,
+        "GTOFF_TNOPE": 7581.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "충무로",
+        "GTON_TNOPE": 12.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "동대입구",
+        "GTON_TNOPE": 11628.0,
+        "GTOFF_TNOPE": 13196.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "약수",
+        "GTON_TNOPE": 10148.0,
+        "GTOFF_TNOPE": 9800.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "금호",
+        "GTON_TNOPE": 6207.0,
+        "GTOFF_TNOPE": 5735.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "옥수",
+        "GTON_TNOPE": 7233.0,
+        "GTOFF_TNOPE": 7336.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "압구정",
+        "GTON_TNOPE": 24762.0,
+        "GTOFF_TNOPE": 26120.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "신사",
+        "GTON_TNOPE": 23330.0,
+        "GTOFF_TNOPE": 24992.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "잠원",
+        "GTON_TNOPE": 3783.0,
+        "GTOFF_TNOPE": 3467.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "고속터미널",
+        "GTON_TNOPE": 58916.0,
+        "GTOFF_TNOPE": 57194.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "교대(법원.검찰청)",
+        "GTON_TNOPE": 10222.0,
+        "GTOFF_TNOPE": 5314.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "남부터미널(예술의전당)",
+        "GTON_TNOPE": 23905.0,
+        "GTOFF_TNOPE": 24122.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "양재(서초구청)",
+        "GTON_TNOPE": 21495.0,
+        "GTOFF_TNOPE": 23108.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "매봉",
+        "GTON_TNOPE": 6765.0,
+        "GTOFF_TNOPE": 6520.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "도곡",
+        "GTON_TNOPE": 4472.0,
+        "GTOFF_TNOPE": 4395.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "대치",
+        "GTON_TNOPE": 12420.0,
+        "GTOFF_TNOPE": 10828.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "학여울",
+        "GTON_TNOPE": 6174.0,
+        "GTOFF_TNOPE": 6685.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "대청",
+        "GTON_TNOPE": 7056.0,
+        "GTOFF_TNOPE": 6622.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "일원",
+        "GTON_TNOPE": 5999.0,
+        "GTOFF_TNOPE": 5826.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "수서",
+        "GTON_TNOPE": 16458.0,
+        "GTOFF_TNOPE": 15570.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "가락시장",
+        "GTON_TNOPE": 6945.0,
+        "GTOFF_TNOPE": 6719.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "경찰병원",
+        "GTON_TNOPE": 4310.0,
+        "GTOFF_TNOPE": 4118.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "3호선",
+        "SBWY_STNS_NM": "오금",
+        "GTON_TNOPE": 4160.0,
+        "GTOFF_TNOPE": 4015.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "당고개",
+        "GTON_TNOPE": 8120.0,
+        "GTOFF_TNOPE": 7263.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "상계",
+        "GTON_TNOPE": 15443.0,
+        "GTOFF_TNOPE": 14137.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "노원",
+        "GTON_TNOPE": 19866.0,
+        "GTOFF_TNOPE": 23169.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "창동",
+        "GTON_TNOPE": 22382.0,
+        "GTOFF_TNOPE": 23569.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "쌍문",
+        "GTON_TNOPE": 23073.0,
+        "GTOFF_TNOPE": 20682.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "수유(강북구청)",
+        "GTON_TNOPE": 28469.0,
+        "GTOFF_TNOPE": 27872.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "미아(서울사이버대학)",
+        "GTON_TNOPE": 12786.0,
+        "GTOFF_TNOPE": 11848.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "미아사거리",
+        "GTON_TNOPE": 22903.0,
+        "GTOFF_TNOPE": 21882.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "길음",
+        "GTON_TNOPE": 16501.0,
+        "GTOFF_TNOPE": 15578.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "성신여대입구(돈암)",
+        "GTON_TNOPE": 19762.0,
+        "GTOFF_TNOPE": 20181.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "한성대입구(삼선교)",
+        "GTON_TNOPE": 11632.0,
+        "GTOFF_TNOPE": 11071.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "혜화",
+        "GTON_TNOPE": 38203.0,
+        "GTOFF_TNOPE": 39645.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "동대문",
+        "GTON_TNOPE": 15874.0,
+        "GTOFF_TNOPE": 16432.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "동대문역사문화공원(DDP)",
+        "GTON_TNOPE": 18019.0,
+        "GTOFF_TNOPE": 15482.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "충무로",
+        "GTON_TNOPE": 19390.0,
+        "GTOFF_TNOPE": 20587.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "명동",
+        "GTON_TNOPE": 33194.0,
+        "GTOFF_TNOPE": 37244.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "회현(남대문시장)",
+        "GTON_TNOPE": 21755.0,
+        "GTOFF_TNOPE": 22868.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "서울역",
+        "GTON_TNOPE": 8071.0,
+        "GTOFF_TNOPE": 20180.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "숙대입구(갈월)",
+        "GTON_TNOPE": 11603.0,
+        "GTOFF_TNOPE": 11111.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "삼각지",
+        "GTON_TNOPE": 5865.0,
+        "GTOFF_TNOPE": 8174.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "신용산",
+        "GTON_TNOPE": 16658.0,
+        "GTOFF_TNOPE": 18356.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "이촌(국립중앙박물관)",
+        "GTON_TNOPE": 9314.0,
+        "GTOFF_TNOPE": 9896.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "동작(현충원)",
+        "GTON_TNOPE": 1389.0,
+        "GTOFF_TNOPE": 1434.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "총신대입구(이수)",
+        "GTON_TNOPE": 15725.0,
+        "GTOFF_TNOPE": 16969.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "사당",
+        "GTON_TNOPE": 25081.0,
+        "GTOFF_TNOPE": 22550.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "4호선",
+        "SBWY_STNS_NM": "남태령",
+        "GTON_TNOPE": 1429.0,
+        "GTOFF_TNOPE": 852.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "방화",
+        "GTON_TNOPE": 5192.0,
+        "GTOFF_TNOPE": 4883.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "개화산",
+        "GTON_TNOPE": 4417.0,
+        "GTOFF_TNOPE": 4230.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "김포공항",
+        "GTON_TNOPE": 11738.0,
+        "GTOFF_TNOPE": 7917.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "송정",
+        "GTON_TNOPE": 5250.0,
+        "GTOFF_TNOPE": 4836.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "마곡",
+        "GTON_TNOPE": 7118.0,
+        "GTOFF_TNOPE": 7114.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "발산",
+        "GTON_TNOPE": 16097.0,
+        "GTOFF_TNOPE": 17619.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "우장산",
+        "GTON_TNOPE": 11199.0,
+        "GTOFF_TNOPE": 10748.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "화곡",
+        "GTON_TNOPE": 21303.0,
+        "GTOFF_TNOPE": 19307.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "까치산",
+        "GTON_TNOPE": 21531.0,
+        "GTOFF_TNOPE": 20001.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "신정(은행정)",
+        "GTON_TNOPE": 9353.0,
+        "GTOFF_TNOPE": 7930.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "목동",
+        "GTON_TNOPE": 12052.0,
+        "GTOFF_TNOPE": 11714.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "오목교(목동운동장앞)",
+        "GTON_TNOPE": 16427.0,
+        "GTOFF_TNOPE": 16693.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "양평",
+        "GTON_TNOPE": 4229.0,
+        "GTOFF_TNOPE": 4006.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "영등포구청",
+        "GTON_TNOPE": 2710.0,
+        "GTOFF_TNOPE": 2501.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "영등포시장",
+        "GTON_TNOPE": 10156.0,
+        "GTOFF_TNOPE": 10288.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "신길",
+        "GTON_TNOPE": 3783.0,
+        "GTOFF_TNOPE": 3631.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "여의도",
+        "GTON_TNOPE": 13604.0,
+        "GTOFF_TNOPE": 15286.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "여의나루",
+        "GTON_TNOPE": 14848.0,
+        "GTOFF_TNOPE": 16277.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "마포",
+        "GTON_TNOPE": 8892.0,
+        "GTOFF_TNOPE": 8769.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "공덕",
+        "GTON_TNOPE": 8583.0,
+        "GTOFF_TNOPE": 8713.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "애오개",
+        "GTON_TNOPE": 4139.0,
+        "GTOFF_TNOPE": 3758.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "충정로(경기대입구)",
+        "GTON_TNOPE": 1973.0,
+        "GTOFF_TNOPE": 1875.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "서대문",
+        "GTON_TNOPE": 8774.0,
+        "GTOFF_TNOPE": 8430.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "광화문(세종문화회관)",
+        "GTON_TNOPE": 20664.0,
+        "GTOFF_TNOPE": 21076.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "종로3가",
+        "GTON_TNOPE": 15734.0,
+        "GTOFF_TNOPE": 16928.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "을지로4가",
+        "GTON_TNOPE": 4097.0,
+        "GTOFF_TNOPE": 4418.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "동대문역사문화공원(DDP)",
+        "GTON_TNOPE": 1666.0,
+        "GTOFF_TNOPE": 1934.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "청구",
+        "GTON_TNOPE": 2776.0,
+        "GTOFF_TNOPE": 2676.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "신금호",
+        "GTON_TNOPE": 4722.0,
+        "GTOFF_TNOPE": 4845.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "행당",
+        "GTON_TNOPE": 6081.0,
+        "GTOFF_TNOPE": 5225.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "왕십리(성동구청)",
+        "GTON_TNOPE": 3895.0,
+        "GTOFF_TNOPE": 4967.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "마장",
+        "GTON_TNOPE": 4439.0,
+        "GTOFF_TNOPE": 4106.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "답십리",
+        "GTON_TNOPE": 11272.0,
+        "GTOFF_TNOPE": 10027.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "장한평",
+        "GTON_TNOPE": 13675.0,
+        "GTOFF_TNOPE": 13109.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "군자(능동)",
+        "GTON_TNOPE": 9469.0,
+        "GTOFF_TNOPE": 10254.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "아차산(어린이대공원후문)",
+        "GTON_TNOPE": 12738.0,
+        "GTOFF_TNOPE": 12261.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "광나루(장신대)",
+        "GTON_TNOPE": 9149.0,
+        "GTOFF_TNOPE": 8636.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "천호(풍납토성)",
+        "GTON_TNOPE": 18523.0,
+        "GTOFF_TNOPE": 17506.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "강동",
+        "GTON_TNOPE": 14426.0,
+        "GTOFF_TNOPE": 14027.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "길동",
+        "GTON_TNOPE": 6984.0,
+        "GTOFF_TNOPE": 7192.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "굽은다리(강동구민회관앞)",
+        "GTON_TNOPE": 8266.0,
+        "GTOFF_TNOPE": 7899.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "명일",
+        "GTON_TNOPE": 6215.0,
+        "GTOFF_TNOPE": 6058.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "고덕",
+        "GTON_TNOPE": 7299.0,
+        "GTOFF_TNOPE": 7150.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "상일동",
+        "GTON_TNOPE": 9979.0,
+        "GTOFF_TNOPE": 9419.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "둔촌동",
+        "GTON_TNOPE": 7074.0,
+        "GTOFF_TNOPE": 6983.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "올림픽공원(한국체대)",
+        "GTON_TNOPE": 6564.0,
+        "GTOFF_TNOPE": 6918.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "방이",
+        "GTON_TNOPE": 5896.0,
+        "GTOFF_TNOPE": 5597.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "오금",
+        "GTON_TNOPE": 2342.0,
+        "GTOFF_TNOPE": 2143.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "개롱",
+        "GTON_TNOPE": 4662.0,
+        "GTOFF_TNOPE": 4837.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "거여",
+        "GTON_TNOPE": 7025.0,
+        "GTOFF_TNOPE": 6634.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "마천",
+        "GTON_TNOPE": 5221.0,
+        "GTOFF_TNOPE": 4875.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "강일",
+        "GTON_TNOPE": 4446.0,
+        "GTOFF_TNOPE": 3816.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "미사",
+        "GTON_TNOPE": 14645.0,
+        "GTOFF_TNOPE": 14896.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "하남풍산",
+        "GTON_TNOPE": 3143.0,
+        "GTOFF_TNOPE": 3221.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "하남시청(덕풍·신장)",
+        "GTON_TNOPE": 7132.0,
+        "GTOFF_TNOPE": 6577.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "5호선",
+        "SBWY_STNS_NM": "하남검단산",
+        "GTON_TNOPE": 6311.0,
+        "GTOFF_TNOPE": 6032.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "응암",
+        "GTON_TNOPE": 13510.0,
+        "GTOFF_TNOPE": 13095.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "역촌",
+        "GTON_TNOPE": 2830.0,
+        "GTOFF_TNOPE": 3253.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "불광",
+        "GTON_TNOPE": 4344.0,
+        "GTOFF_TNOPE": 3784.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "독바위",
+        "GTON_TNOPE": 2117.0,
+        "GTOFF_TNOPE": 2282.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "연신내",
+        "GTON_TNOPE": 4.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "구산",
+        "GTON_TNOPE": 6490.0,
+        "GTOFF_TNOPE": 4764.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "새절(신사)",
+        "GTON_TNOPE": 9147.0,
+        "GTOFF_TNOPE": 8467.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "증산(명지대앞)",
+        "GTON_TNOPE": 7676.0,
+        "GTOFF_TNOPE": 7398.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "디지털미디어시티",
+        "GTON_TNOPE": 8794.0,
+        "GTOFF_TNOPE": 8845.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "월드컵경기장(성산)",
+        "GTON_TNOPE": 5222.0,
+        "GTOFF_TNOPE": 5316.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "마포구청",
+        "GTON_TNOPE": 10516.0,
+        "GTOFF_TNOPE": 9286.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "망원",
+        "GTON_TNOPE": 15367.0,
+        "GTOFF_TNOPE": 16725.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "합정",
+        "GTON_TNOPE": 13321.0,
+        "GTOFF_TNOPE": 13145.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "상수",
+        "GTON_TNOPE": 10303.0,
+        "GTOFF_TNOPE": 12823.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "광흥창(서강)",
+        "GTON_TNOPE": 6104.0,
+        "GTOFF_TNOPE": 5592.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "대흥(서강대앞)",
+        "GTON_TNOPE": 6763.0,
+        "GTOFF_TNOPE": 6968.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "공덕",
+        "GTON_TNOPE": 12104.0,
+        "GTOFF_TNOPE": 11798.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "효창공원앞",
+        "GTON_TNOPE": 5122.0,
+        "GTOFF_TNOPE": 4258.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "삼각지",
+        "GTON_TNOPE": 7747.0,
+        "GTOFF_TNOPE": 6243.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "녹사평(용산구청)",
+        "GTON_TNOPE": 5490.0,
+        "GTOFF_TNOPE": 6091.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "이태원",
+        "GTON_TNOPE": 13188.0,
+        "GTOFF_TNOPE": 17058.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "한강진",
+        "GTON_TNOPE": 9522.0,
+        "GTOFF_TNOPE": 12094.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "버티고개",
+        "GTON_TNOPE": 1602.0,
+        "GTOFF_TNOPE": 1675.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "약수",
+        "GTON_TNOPE": 2815.0,
+        "GTOFF_TNOPE": 2935.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "청구",
+        "GTON_TNOPE": 2838.0,
+        "GTOFF_TNOPE": 2617.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "신당",
+        "GTON_TNOPE": 7459.0,
+        "GTOFF_TNOPE": 7004.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "동묘앞",
+        "GTON_TNOPE": 9237.0,
+        "GTOFF_TNOPE": 9177.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "창신",
+        "GTON_TNOPE": 2369.0,
+        "GTOFF_TNOPE": 1957.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "보문",
+        "GTON_TNOPE": 6089.0,
+        "GTOFF_TNOPE": 5485.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "안암(고대병원앞)",
+        "GTON_TNOPE": 10792.0,
+        "GTOFF_TNOPE": 9243.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "고려대(종암)",
+        "GTON_TNOPE": 6419.0,
+        "GTOFF_TNOPE": 6290.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "월곡(동덕여대)",
+        "GTON_TNOPE": 7841.0,
+        "GTOFF_TNOPE": 7521.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "상월곡(한국과학기술연구원)",
+        "GTON_TNOPE": 4593.0,
+        "GTOFF_TNOPE": 3976.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "돌곶이",
+        "GTON_TNOPE": 6877.0,
+        "GTOFF_TNOPE": 6067.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "석계",
+        "GTON_TNOPE": 9274.0,
+        "GTOFF_TNOPE": 9113.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "태릉입구",
+        "GTON_TNOPE": 4397.0,
+        "GTOFF_TNOPE": 4798.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "화랑대(서울여대입구)",
+        "GTON_TNOPE": 7300.0,
+        "GTOFF_TNOPE": 6086.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "봉화산(서울의료원)",
+        "GTON_TNOPE": 5732.0,
+        "GTOFF_TNOPE": 5592.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "6호선",
+        "SBWY_STNS_NM": "신내",
+        "GTON_TNOPE": 1.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "장암",
+        "GTON_TNOPE": 1937.0,
+        "GTOFF_TNOPE": 1296.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "도봉산",
+        "GTON_TNOPE": 6776.0,
+        "GTOFF_TNOPE": 9016.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "수락산",
+        "GTON_TNOPE": 11027.0,
+        "GTOFF_TNOPE": 10614.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "마들",
+        "GTON_TNOPE": 10033.0,
+        "GTOFF_TNOPE": 9242.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "노원",
+        "GTON_TNOPE": 17919.0,
+        "GTOFF_TNOPE": 17716.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "중계",
+        "GTON_TNOPE": 10164.0,
+        "GTOFF_TNOPE": 9025.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "하계",
+        "GTON_TNOPE": 13583.0,
+        "GTOFF_TNOPE": 12232.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "공릉(서울과학기술대)",
+        "GTON_TNOPE": 9466.0,
+        "GTOFF_TNOPE": 9042.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "태릉입구",
+        "GTON_TNOPE": 6946.0,
+        "GTOFF_TNOPE": 6424.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "먹골",
+        "GTON_TNOPE": 8442.0,
+        "GTOFF_TNOPE": 8089.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "중화",
+        "GTON_TNOPE": 7828.0,
+        "GTOFF_TNOPE": 7313.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "상봉",
+        "GTON_TNOPE": 14829.0,
+        "GTOFF_TNOPE": 14538.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "면목",
+        "GTON_TNOPE": 11250.0,
+        "GTOFF_TNOPE": 10055.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "사가정",
+        "GTON_TNOPE": 12873.0,
+        "GTOFF_TNOPE": 12605.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "용마산(용마폭포공원)",
+        "GTON_TNOPE": 4949.0,
+        "GTOFF_TNOPE": 5175.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "중곡",
+        "GTON_TNOPE": 7567.0,
+        "GTOFF_TNOPE": 6902.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "군자(능동)",
+        "GTON_TNOPE": 11856.0,
+        "GTOFF_TNOPE": 8866.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "어린이대공원(세종대)",
+        "GTON_TNOPE": 12272.0,
+        "GTOFF_TNOPE": 11864.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "건대입구",
+        "GTON_TNOPE": 11714.0,
+        "GTOFF_TNOPE": 12486.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "자양(뚝섬한강공원)",
+        "GTON_TNOPE": 10805.0,
+        "GTOFF_TNOPE": 10252.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "청담",
+        "GTON_TNOPE": 11544.0,
+        "GTOFF_TNOPE": 12375.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "강남구청",
+        "GTON_TNOPE": 10707.0,
+        "GTOFF_TNOPE": 12212.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "학동",
+        "GTON_TNOPE": 12366.0,
+        "GTOFF_TNOPE": 12918.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "논현",
+        "GTON_TNOPE": 11244.0,
+        "GTOFF_TNOPE": 12270.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "반포",
+        "GTON_TNOPE": 5406.0,
+        "GTOFF_TNOPE": 4918.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "고속터미널",
+        "GTON_TNOPE": 17471.0,
+        "GTOFF_TNOPE": 12839.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "내방",
+        "GTON_TNOPE": 8749.0,
+        "GTOFF_TNOPE": 8533.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "이수",
+        "GTON_TNOPE": 13501.0,
+        "GTOFF_TNOPE": 13024.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "남성",
+        "GTON_TNOPE": 8419.0,
+        "GTOFF_TNOPE": 7590.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "숭실대입구(살피재)",
+        "GTON_TNOPE": 9247.0,
+        "GTOFF_TNOPE": 8681.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "상도",
+        "GTON_TNOPE": 8670.0,
+        "GTOFF_TNOPE": 7832.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "장승배기",
+        "GTON_TNOPE": 7004.0,
+        "GTOFF_TNOPE": 6742.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "신대방삼거리",
+        "GTON_TNOPE": 11797.0,
+        "GTOFF_TNOPE": 10786.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "보라매",
+        "GTON_TNOPE": 5597.0,
+        "GTOFF_TNOPE": 5526.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "신풍",
+        "GTON_TNOPE": 8134.0,
+        "GTOFF_TNOPE": 7386.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "대림(구로구청)",
+        "GTON_TNOPE": 8619.0,
+        "GTOFF_TNOPE": 9206.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "남구로",
+        "GTON_TNOPE": 8558.0,
+        "GTOFF_TNOPE": 9052.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "가산디지털단지",
+        "GTON_TNOPE": 13762.0,
+        "GTOFF_TNOPE": 12597.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "철산",
+        "GTON_TNOPE": 16589.0,
+        "GTOFF_TNOPE": 16306.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "광명사거리",
+        "GTON_TNOPE": 16547.0,
+        "GTOFF_TNOPE": 16447.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "천왕",
+        "GTON_TNOPE": 7518.0,
+        "GTOFF_TNOPE": 6995.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "7호선",
+        "SBWY_STNS_NM": "온수(성공회대입구)",
+        "GTON_TNOPE": 5744.0,
+        "GTOFF_TNOPE": 5653.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "암사역사공원",
+        "GTON_TNOPE": 3918.0,
+        "GTOFF_TNOPE": 3567.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "암사",
+        "GTON_TNOPE": 13020.0,
+        "GTOFF_TNOPE": 11930.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "천호(풍납토성)",
+        "GTON_TNOPE": 14137.0,
+        "GTOFF_TNOPE": 16312.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "강동구청",
+        "GTON_TNOPE": 7030.0,
+        "GTOFF_TNOPE": 6828.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "몽촌토성(평화의문)",
+        "GTON_TNOPE": 6485.0,
+        "GTOFF_TNOPE": 6621.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "잠실(송파구청)",
+        "GTON_TNOPE": 18080.0,
+        "GTOFF_TNOPE": 21011.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "석촌",
+        "GTON_TNOPE": 7224.0,
+        "GTOFF_TNOPE": 8877.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "송파",
+        "GTON_TNOPE": 6753.0,
+        "GTOFF_TNOPE": 6403.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "가락시장",
+        "GTON_TNOPE": 6498.0,
+        "GTOFF_TNOPE": 6636.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "문정",
+        "GTON_TNOPE": 10815.0,
+        "GTOFF_TNOPE": 10668.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "장지",
+        "GTON_TNOPE": 13608.0,
+        "GTOFF_TNOPE": 12170.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "복정",
+        "GTON_TNOPE": 6751.0,
+        "GTOFF_TNOPE": 5531.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "산성",
+        "GTON_TNOPE": 4909.0,
+        "GTOFF_TNOPE": 4876.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "남한산성입구(성남법원.검찰청)",
+        "GTON_TNOPE": 9486.0,
+        "GTOFF_TNOPE": 8003.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "단대오거리",
+        "GTON_TNOPE": 8676.0,
+        "GTOFF_TNOPE": 8140.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "신흥",
+        "GTON_TNOPE": 4401.0,
+        "GTOFF_TNOPE": 4504.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "수진",
+        "GTON_TNOPE": 4610.0,
+        "GTOFF_TNOPE": 4193.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "모란",
+        "GTON_TNOPE": 4409.0,
+        "GTOFF_TNOPE": 3809.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "8호선",
+        "SBWY_STNS_NM": "남위례",
+        "GTON_TNOPE": 5215.0,
+        "GTOFF_TNOPE": 5075.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "개화",
+        "GTON_TNOPE": 1827.0,
+        "GTOFF_TNOPE": 1511.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "김포공항",
+        "GTON_TNOPE": 6278.0,
+        "GTOFF_TNOPE": 11108.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "공항시장",
+        "GTON_TNOPE": 2493.0,
+        "GTOFF_TNOPE": 2549.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "신방화",
+        "GTON_TNOPE": 5355.0,
+        "GTOFF_TNOPE": 5135.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "마곡나루(서울식물원)",
+        "GTON_TNOPE": 10485.0,
+        "GTOFF_TNOPE": 10170.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "양천향교",
+        "GTON_TNOPE": 6557.0,
+        "GTOFF_TNOPE": 6173.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "가양",
+        "GTON_TNOPE": 15811.0,
+        "GTOFF_TNOPE": 15080.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "증미",
+        "GTON_TNOPE": 3994.0,
+        "GTOFF_TNOPE": 3655.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "등촌",
+        "GTON_TNOPE": 8111.0,
+        "GTOFF_TNOPE": 7740.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "염창",
+        "GTON_TNOPE": 13290.0,
+        "GTOFF_TNOPE": 11930.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "신목동",
+        "GTON_TNOPE": 2765.0,
+        "GTOFF_TNOPE": 2359.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "선유도",
+        "GTON_TNOPE": 4440.0,
+        "GTOFF_TNOPE": 4147.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "당산",
+        "GTON_TNOPE": 14549.0,
+        "GTOFF_TNOPE": 13437.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "국회의사당",
+        "GTON_TNOPE": 6762.0,
+        "GTOFF_TNOPE": 6855.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "여의도",
+        "GTON_TNOPE": 15366.0,
+        "GTOFF_TNOPE": 15105.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "샛강",
+        "GTON_TNOPE": 3497.0,
+        "GTOFF_TNOPE": 3341.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "노량진",
+        "GTON_TNOPE": 23094.0,
+        "GTOFF_TNOPE": 23028.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "노들",
+        "GTON_TNOPE": 4099.0,
+        "GTOFF_TNOPE": 3376.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "흑석(중앙대입구)",
+        "GTON_TNOPE": 6371.0,
+        "GTOFF_TNOPE": 6213.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "동작(현충원)",
+        "GTON_TNOPE": 1419.0,
+        "GTOFF_TNOPE": 1303.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "구반포",
+        "GTON_TNOPE": 865.0,
+        "GTOFF_TNOPE": 857.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "신반포",
+        "GTON_TNOPE": 3428.0,
+        "GTOFF_TNOPE": 3403.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "고속터미널",
+        "GTON_TNOPE": 16511.0,
+        "GTOFF_TNOPE": 24708.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "사평",
+        "GTON_TNOPE": 2849.0,
+        "GTOFF_TNOPE": 2551.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선",
+        "SBWY_STNS_NM": "신논현",
+        "GTON_TNOPE": 27900.0,
+        "GTOFF_TNOPE": 29347.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "언주",
+        "GTON_TNOPE": 7640.0,
+        "GTOFF_TNOPE": 7573.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "선정릉",
+        "GTON_TNOPE": 5360.0,
+        "GTOFF_TNOPE": 6041.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "삼성중앙",
+        "GTON_TNOPE": 3731.0,
+        "GTOFF_TNOPE": 3853.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "봉은사",
+        "GTON_TNOPE": 14202.0,
+        "GTOFF_TNOPE": 14912.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "종합운동장",
+        "GTON_TNOPE": 5486.0,
+        "GTOFF_TNOPE": 5080.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "삼전",
+        "GTON_TNOPE": 5982.0,
+        "GTOFF_TNOPE": 5457.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "석촌고분",
+        "GTON_TNOPE": 5596.0,
+        "GTOFF_TNOPE": 5273.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "석촌",
+        "GTON_TNOPE": 8466.0,
+        "GTOFF_TNOPE": 7091.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "송파나루",
+        "GTON_TNOPE": 4947.0,
+        "GTOFF_TNOPE": 5619.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "한성백제",
+        "GTON_TNOPE": 2833.0,
+        "GTOFF_TNOPE": 2466.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "올림픽공원(한국체대)",
+        "GTON_TNOPE": 14483.0,
+        "GTOFF_TNOPE": 13914.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "둔촌오륜",
+        "GTON_TNOPE": 878.0,
+        "GTOFF_TNOPE": 929.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "9호선2~3단계",
+        "SBWY_STNS_NM": "중앙보훈병원",
+        "GTON_TNOPE": 6312.0,
+        "GTOFF_TNOPE": 5783.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "판교",
+        "GTON_TNOPE": 4001.0,
+        "GTOFF_TNOPE": 3763.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "이매",
+        "GTON_TNOPE": 863.0,
+        "GTOFF_TNOPE": 771.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "삼동",
+        "GTON_TNOPE": 1646.0,
+        "GTOFF_TNOPE": 1482.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "경기광주",
+        "GTON_TNOPE": 5989.0,
+        "GTOFF_TNOPE": 5567.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "초월",
+        "GTON_TNOPE": 2708.0,
+        "GTOFF_TNOPE": 2349.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "곤지암",
+        "GTON_TNOPE": 2048.0,
+        "GTOFF_TNOPE": 2169.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "신둔도예촌",
+        "GTON_TNOPE": 1397.0,
+        "GTOFF_TNOPE": 1336.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "이천",
+        "GTON_TNOPE": 3357.0,
+        "GTOFF_TNOPE": 3465.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "부발",
+        "GTON_TNOPE": 2352.0,
+        "GTOFF_TNOPE": 2180.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "세종대왕릉",
+        "GTON_TNOPE": 349.0,
+        "GTOFF_TNOPE": 388.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "여주",
+        "GTON_TNOPE": 3277.0,
+        "GTOFF_TNOPE": 3470.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경강선",
+        "SBWY_STNS_NM": "성남",
+        "GTON_TNOPE": 819.0,
+        "GTOFF_TNOPE": 727.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "서울역",
+        "GTON_TNOPE": 11875.0,
+        "GTOFF_TNOPE": 3921.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "남영",
+        "GTON_TNOPE": 6398.0,
+        "GTOFF_TNOPE": 6596.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "용산",
+        "GTON_TNOPE": 48577.0,
+        "GTOFF_TNOPE": 51132.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "노량진",
+        "GTON_TNOPE": 8904.0,
+        "GTOFF_TNOPE": 8396.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "대방",
+        "GTON_TNOPE": 6934.0,
+        "GTOFF_TNOPE": 7808.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "영등포",
+        "GTON_TNOPE": 44901.0,
+        "GTOFF_TNOPE": 46920.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "신도림",
+        "GTON_TNOPE": 3456.0,
+        "GTOFF_TNOPE": 3884.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "신길",
+        "GTON_TNOPE": 6352.0,
+        "GTOFF_TNOPE": 5242.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "구로",
+        "GTON_TNOPE": 15044.0,
+        "GTOFF_TNOPE": 15826.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "가산디지털단지",
+        "GTON_TNOPE": 6776.0,
+        "GTOFF_TNOPE": 8210.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "금천구청",
+        "GTON_TNOPE": 8402.0,
+        "GTOFF_TNOPE": 8183.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "석수",
+        "GTON_TNOPE": 6507.0,
+        "GTOFF_TNOPE": 5983.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "관악",
+        "GTON_TNOPE": 5802.0,
+        "GTOFF_TNOPE": 5608.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "안양",
+        "GTON_TNOPE": 18850.0,
+        "GTOFF_TNOPE": 18662.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "명학",
+        "GTON_TNOPE": 5150.0,
+        "GTOFF_TNOPE": 4983.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "금정",
+        "GTON_TNOPE": 20698.0,
+        "GTOFF_TNOPE": 20894.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "군포",
+        "GTON_TNOPE": 4473.0,
+        "GTOFF_TNOPE": 4038.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "의왕",
+        "GTON_TNOPE": 5966.0,
+        "GTOFF_TNOPE": 5785.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "성균관대",
+        "GTON_TNOPE": 12205.0,
+        "GTOFF_TNOPE": 12063.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "화서",
+        "GTON_TNOPE": 11957.0,
+        "GTOFF_TNOPE": 11944.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "수원",
+        "GTON_TNOPE": 42814.0,
+        "GTOFF_TNOPE": 46175.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "독산",
+        "GTON_TNOPE": 9707.0,
+        "GTOFF_TNOPE": 9308.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "세류",
+        "GTON_TNOPE": 3077.0,
+        "GTOFF_TNOPE": 3035.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "병점",
+        "GTON_TNOPE": 13921.0,
+        "GTOFF_TNOPE": 13171.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "세마",
+        "GTON_TNOPE": 2824.0,
+        "GTOFF_TNOPE": 2481.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "오산대",
+        "GTON_TNOPE": 3113.0,
+        "GTOFF_TNOPE": 2852.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "오산",
+        "GTON_TNOPE": 10505.0,
+        "GTOFF_TNOPE": 9705.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "진위",
+        "GTON_TNOPE": 1227.0,
+        "GTOFF_TNOPE": 1067.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "송탄",
+        "GTON_TNOPE": 5323.0,
+        "GTOFF_TNOPE": 4932.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "서정리",
+        "GTON_TNOPE": 8281.0,
+        "GTOFF_TNOPE": 7162.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "평택지제",
+        "GTON_TNOPE": 4115.0,
+        "GTOFF_TNOPE": 3674.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "평택",
+        "GTON_TNOPE": 15283.0,
+        "GTOFF_TNOPE": 14690.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "성환",
+        "GTON_TNOPE": 3661.0,
+        "GTOFF_TNOPE": 3427.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "직산",
+        "GTON_TNOPE": 869.0,
+        "GTOFF_TNOPE": 819.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "두정",
+        "GTON_TNOPE": 7221.0,
+        "GTOFF_TNOPE": 6889.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "천안",
+        "GTON_TNOPE": 7869.0,
+        "GTOFF_TNOPE": 7976.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "당정",
+        "GTON_TNOPE": 4200.0,
+        "GTOFF_TNOPE": 3776.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "서동탄",
+        "GTON_TNOPE": 1115.0,
+        "GTOFF_TNOPE": 1090.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경부선",
+        "SBWY_STNS_NM": "광명",
+        "GTON_TNOPE": 3635.0,
+        "GTOFF_TNOPE": 3099.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "이촌(국립중앙박물관)",
+        "GTON_TNOPE": 3481.0,
+        "GTOFF_TNOPE": 2576.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "서빙고",
+        "GTON_TNOPE": 1772.0,
+        "GTOFF_TNOPE": 1652.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "한남",
+        "GTON_TNOPE": 2363.0,
+        "GTOFF_TNOPE": 2450.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "옥수",
+        "GTON_TNOPE": 50.0,
+        "GTOFF_TNOPE": 34.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "응봉",
+        "GTON_TNOPE": 1488.0,
+        "GTOFF_TNOPE": 1216.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "왕십리(성동구청)",
+        "GTON_TNOPE": 16563.0,
+        "GTOFF_TNOPE": 16712.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "청량리(서울시립대입구)",
+        "GTON_TNOPE": 19492.0,
+        "GTOFF_TNOPE": 20620.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "외대앞",
+        "GTON_TNOPE": 8018.0,
+        "GTOFF_TNOPE": 7597.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "신이문",
+        "GTON_TNOPE": 6727.0,
+        "GTOFF_TNOPE": 6048.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "석계",
+        "GTON_TNOPE": 6432.0,
+        "GTOFF_TNOPE": 6866.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "광운대",
+        "GTON_TNOPE": 6201.0,
+        "GTOFF_TNOPE": 6039.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "월계",
+        "GTON_TNOPE": 5012.0,
+        "GTOFF_TNOPE": 4572.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "녹천",
+        "GTON_TNOPE": 3368.0,
+        "GTOFF_TNOPE": 2854.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "창동",
+        "GTON_TNOPE": 7.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "방학",
+        "GTON_TNOPE": 8044.0,
+        "GTOFF_TNOPE": 7698.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "도봉",
+        "GTON_TNOPE": 4809.0,
+        "GTOFF_TNOPE": 4464.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "도봉산",
+        "GTON_TNOPE": 8520.0,
+        "GTOFF_TNOPE": 5668.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "망월사",
+        "GTON_TNOPE": 6055.0,
+        "GTOFF_TNOPE": 6086.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "회룡",
+        "GTON_TNOPE": 10714.0,
+        "GTOFF_TNOPE": 10321.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "의정부",
+        "GTON_TNOPE": 18932.0,
+        "GTOFF_TNOPE": 19888.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "가능",
+        "GTON_TNOPE": 5474.0,
+        "GTOFF_TNOPE": 5199.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "녹양",
+        "GTON_TNOPE": 3528.0,
+        "GTOFF_TNOPE": 3340.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "양주",
+        "GTON_TNOPE": 6707.0,
+        "GTOFF_TNOPE": 6258.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "덕계",
+        "GTON_TNOPE": 4944.0,
+        "GTOFF_TNOPE": 4580.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "덕정",
+        "GTON_TNOPE": 4980.0,
+        "GTOFF_TNOPE": 4579.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "지행",
+        "GTON_TNOPE": 6599.0,
+        "GTOFF_TNOPE": 6516.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "동두천중앙",
+        "GTON_TNOPE": 2767.0,
+        "GTOFF_TNOPE": 2791.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "보산",
+        "GTON_TNOPE": 1602.0,
+        "GTOFF_TNOPE": 1528.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "동두천",
+        "GTON_TNOPE": 1607.0,
+        "GTOFF_TNOPE": 1647.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "소요산",
+        "GTON_TNOPE": 4043.0,
+        "GTOFF_TNOPE": 4076.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "청산",
+        "GTON_TNOPE": 188.0,
+        "GTOFF_TNOPE": 144.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "전곡",
+        "GTON_TNOPE": 1706.0,
+        "GTOFF_TNOPE": 1488.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경원선",
+        "SBWY_STNS_NM": "연천",
+        "GTON_TNOPE": 1644.0,
+        "GTOFF_TNOPE": 1613.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "서울역",
+        "GTON_TNOPE": 1715.0,
+        "GTOFF_TNOPE": 1677.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "신촌",
+        "GTON_TNOPE": 397.0,
+        "GTOFF_TNOPE": 440.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "효창공원앞",
+        "GTON_TNOPE": 2066.0,
+        "GTOFF_TNOPE": 2298.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "공덕",
+        "GTON_TNOPE": 3689.0,
+        "GTOFF_TNOPE": 2557.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "서강대",
+        "GTON_TNOPE": 1902.0,
+        "GTOFF_TNOPE": 1829.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "홍대입구",
+        "GTON_TNOPE": 2805.0,
+        "GTOFF_TNOPE": 3415.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "가좌",
+        "GTON_TNOPE": 4420.0,
+        "GTOFF_TNOPE": 4250.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "디지털미디어시티",
+        "GTON_TNOPE": 2538.0,
+        "GTOFF_TNOPE": 2260.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "수색",
+        "GTON_TNOPE": 2185.0,
+        "GTOFF_TNOPE": 2033.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "한국항공대",
+        "GTON_TNOPE": 1413.0,
+        "GTOFF_TNOPE": 1335.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "강매",
+        "GTON_TNOPE": 2092.0,
+        "GTOFF_TNOPE": 1968.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "행신",
+        "GTON_TNOPE": 6004.0,
+        "GTOFF_TNOPE": 6070.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "능곡",
+        "GTON_TNOPE": 3738.0,
+        "GTOFF_TNOPE": 3696.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "곡산",
+        "GTON_TNOPE": 532.0,
+        "GTOFF_TNOPE": 520.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "백마",
+        "GTON_TNOPE": 5424.0,
+        "GTOFF_TNOPE": 4965.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "풍산",
+        "GTON_TNOPE": 5038.0,
+        "GTOFF_TNOPE": 4819.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "일산",
+        "GTON_TNOPE": 7970.0,
+        "GTOFF_TNOPE": 7452.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "탄현",
+        "GTON_TNOPE": 6079.0,
+        "GTOFF_TNOPE": 5658.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "야당",
+        "GTON_TNOPE": 7802.0,
+        "GTOFF_TNOPE": 7966.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "운정",
+        "GTON_TNOPE": 6366.0,
+        "GTOFF_TNOPE": 5589.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "금릉",
+        "GTON_TNOPE": 4685.0,
+        "GTOFF_TNOPE": 4271.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "금촌",
+        "GTON_TNOPE": 6093.0,
+        "GTOFF_TNOPE": 5815.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "월롱",
+        "GTON_TNOPE": 1401.0,
+        "GTOFF_TNOPE": 1280.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "파주",
+        "GTON_TNOPE": 1078.0,
+        "GTOFF_TNOPE": 880.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "문산",
+        "GTON_TNOPE": 5735.0,
+        "GTOFF_TNOPE": 5359.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "임진강",
+        "GTON_TNOPE": 80.0,
+        "GTOFF_TNOPE": 57.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경의선",
+        "SBWY_STNS_NM": "운천",
+        "GTON_TNOPE": 6.0,
+        "GTOFF_TNOPE": 3.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "개봉",
+        "GTON_TNOPE": 17260.0,
+        "GTOFF_TNOPE": 16750.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "오류동",
+        "GTON_TNOPE": 9344.0,
+        "GTOFF_TNOPE": 8360.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "역곡",
+        "GTON_TNOPE": 20745.0,
+        "GTOFF_TNOPE": 20252.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "부천",
+        "GTON_TNOPE": 30104.0,
+        "GTOFF_TNOPE": 30589.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "송내",
+        "GTON_TNOPE": 19168.0,
+        "GTOFF_TNOPE": 18680.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "부평",
+        "GTON_TNOPE": 28795.0,
+        "GTOFF_TNOPE": 31602.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "백운",
+        "GTON_TNOPE": 6709.0,
+        "GTOFF_TNOPE": 6503.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "동암",
+        "GTON_TNOPE": 13426.0,
+        "GTOFF_TNOPE": 13362.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "주안",
+        "GTON_TNOPE": 16537.0,
+        "GTOFF_TNOPE": 14360.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "제물포",
+        "GTON_TNOPE": 7711.0,
+        "GTOFF_TNOPE": 7187.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "동인천",
+        "GTON_TNOPE": 12607.0,
+        "GTOFF_TNOPE": 12077.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "인천",
+        "GTON_TNOPE": 4967.0,
+        "GTOFF_TNOPE": 4198.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "구일",
+        "GTON_TNOPE": 4693.0,
+        "GTOFF_TNOPE": 4346.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "소사",
+        "GTON_TNOPE": 6912.0,
+        "GTOFF_TNOPE": 6591.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "부개",
+        "GTON_TNOPE": 6950.0,
+        "GTOFF_TNOPE": 6399.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "간석",
+        "GTON_TNOPE": 4604.0,
+        "GTOFF_TNOPE": 4439.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "도원",
+        "GTON_TNOPE": 2211.0,
+        "GTOFF_TNOPE": 2184.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "온수(성공회대입구)",
+        "GTON_TNOPE": 4940.0,
+        "GTOFF_TNOPE": 4476.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "중동",
+        "GTON_TNOPE": 7014.0,
+        "GTOFF_TNOPE": 6594.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경인선",
+        "SBWY_STNS_NM": "도화",
+        "GTON_TNOPE": 3286.0,
+        "GTOFF_TNOPE": 3090.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "신내",
+        "GTON_TNOPE": 1870.0,
+        "GTOFF_TNOPE": 1692.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "갈매",
+        "GTON_TNOPE": 1999.0,
+        "GTOFF_TNOPE": 1720.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "별내",
+        "GTON_TNOPE": 2309.0,
+        "GTOFF_TNOPE": 1889.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "퇴계원",
+        "GTON_TNOPE": 2831.0,
+        "GTOFF_TNOPE": 2494.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "사릉",
+        "GTON_TNOPE": 1695.0,
+        "GTOFF_TNOPE": 1608.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "금곡",
+        "GTON_TNOPE": 1162.0,
+        "GTOFF_TNOPE": 1112.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "평내호평",
+        "GTON_TNOPE": 5069.0,
+        "GTOFF_TNOPE": 4965.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "천마산",
+        "GTON_TNOPE": 1331.0,
+        "GTOFF_TNOPE": 1271.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "마석",
+        "GTON_TNOPE": 3567.0,
+        "GTOFF_TNOPE": 3411.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "대성리",
+        "GTON_TNOPE": 1273.0,
+        "GTOFF_TNOPE": 1310.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "청평",
+        "GTON_TNOPE": 2359.0,
+        "GTOFF_TNOPE": 2699.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "상천",
+        "GTON_TNOPE": 345.0,
+        "GTOFF_TNOPE": 392.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "가평",
+        "GTON_TNOPE": 4206.0,
+        "GTOFF_TNOPE": 5472.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "굴봉산",
+        "GTON_TNOPE": 181.0,
+        "GTOFF_TNOPE": 169.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "백양리",
+        "GTON_TNOPE": 196.0,
+        "GTOFF_TNOPE": 190.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "강촌",
+        "GTON_TNOPE": 619.0,
+        "GTOFF_TNOPE": 709.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "김유정",
+        "GTON_TNOPE": 511.0,
+        "GTOFF_TNOPE": 561.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "남춘천",
+        "GTON_TNOPE": 3462.0,
+        "GTOFF_TNOPE": 3782.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "경춘선",
+        "SBWY_STNS_NM": "춘천",
+        "GTON_TNOPE": 2161.0,
+        "GTOFF_TNOPE": 2001.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "서울역",
+        "GTON_TNOPE": 15113.0,
+        "GTOFF_TNOPE": 14552.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "공덕",
+        "GTON_TNOPE": 2403.0,
+        "GTOFF_TNOPE": 3412.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "홍대입구",
+        "GTON_TNOPE": 18967.0,
+        "GTOFF_TNOPE": 18555.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "디지털미디어시티",
+        "GTON_TNOPE": 8387.0,
+        "GTOFF_TNOPE": 7654.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "마곡나루(서울식물원)",
+        "GTON_TNOPE": 5237.0,
+        "GTOFF_TNOPE": 5688.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "김포공항",
+        "GTON_TNOPE": 9205.0,
+        "GTOFF_TNOPE": 5075.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "계양",
+        "GTON_TNOPE": 10047.0,
+        "GTOFF_TNOPE": 9151.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "검암",
+        "GTON_TNOPE": 4780.0,
+        "GTOFF_TNOPE": 5068.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "청라국제도시",
+        "GTON_TNOPE": 5405.0,
+        "GTOFF_TNOPE": 5174.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "운서",
+        "GTON_TNOPE": 9590.0,
+        "GTOFF_TNOPE": 10590.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "공항화물청사",
+        "GTON_TNOPE": 1253.0,
+        "GTOFF_TNOPE": 3027.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "인천공항1터미널",
+        "GTON_TNOPE": 16979.0,
+        "GTOFF_TNOPE": 15131.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "인천공항2터미널",
+        "GTON_TNOPE": 9852.0,
+        "GTOFF_TNOPE": 6544.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "공항철도 1호선",
+        "SBWY_STNS_NM": "영종",
+        "GTON_TNOPE": 4021.0,
+        "GTOFF_TNOPE": 4096.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "선바위",
+        "GTON_TNOPE": 5677.0,
+        "GTOFF_TNOPE": 4824.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "경마공원",
+        "GTON_TNOPE": 13397.0,
+        "GTOFF_TNOPE": 13370.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "대공원",
+        "GTON_TNOPE": 13105.0,
+        "GTOFF_TNOPE": 16657.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "과천",
+        "GTON_TNOPE": 5492.0,
+        "GTOFF_TNOPE": 4913.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "정부과천청사",
+        "GTON_TNOPE": 8090.0,
+        "GTOFF_TNOPE": 7713.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "인덕원",
+        "GTON_TNOPE": 17875.0,
+        "GTOFF_TNOPE": 17876.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "평촌",
+        "GTON_TNOPE": 10009.0,
+        "GTOFF_TNOPE": 9516.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "과천선",
+        "SBWY_STNS_NM": "범계",
+        "GTON_TNOPE": 23441.0,
+        "GTOFF_TNOPE": 22998.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "선릉",
+        "GTON_TNOPE": 6263.0,
+        "GTOFF_TNOPE": 9663.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "한티",
+        "GTON_TNOPE": 15296.0,
+        "GTOFF_TNOPE": 14757.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "도곡",
+        "GTON_TNOPE": 5010.0,
+        "GTOFF_TNOPE": 4611.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "구룡",
+        "GTON_TNOPE": 2369.0,
+        "GTOFF_TNOPE": 2270.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "개포동",
+        "GTON_TNOPE": 3344.0,
+        "GTOFF_TNOPE": 3238.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "대모산입구",
+        "GTON_TNOPE": 4092.0,
+        "GTOFF_TNOPE": 3862.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "수서",
+        "GTON_TNOPE": 14382.0,
+        "GTOFF_TNOPE": 14858.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "복정",
+        "GTON_TNOPE": 8.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "수원",
+        "GTON_TNOPE": 7545.0,
+        "GTOFF_TNOPE": 7238.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "서울숲",
+        "GTON_TNOPE": 10133.0,
+        "GTOFF_TNOPE": 10612.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "압구정로데오",
+        "GTON_TNOPE": 18795.0,
+        "GTOFF_TNOPE": 21713.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "강남구청",
+        "GTON_TNOPE": 5635.0,
+        "GTOFF_TNOPE": 6928.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "선정릉",
+        "GTON_TNOPE": 3560.0,
+        "GTOFF_TNOPE": 3501.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "가천대",
+        "GTON_TNOPE": 5716.0,
+        "GTOFF_TNOPE": 5878.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "태평",
+        "GTON_TNOPE": 10958.0,
+        "GTOFF_TNOPE": 10104.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "모란",
+        "GTON_TNOPE": 16355.0,
+        "GTOFF_TNOPE": 17004.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "야탑",
+        "GTON_TNOPE": 18806.0,
+        "GTOFF_TNOPE": 19481.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "서현",
+        "GTON_TNOPE": 19148.0,
+        "GTOFF_TNOPE": 19212.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "수내",
+        "GTON_TNOPE": 9052.0,
+        "GTOFF_TNOPE": 8730.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "정자",
+        "GTON_TNOPE": 11142.0,
+        "GTOFF_TNOPE": 11253.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "미금",
+        "GTON_TNOPE": 10906.0,
+        "GTOFF_TNOPE": 11435.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "오리",
+        "GTON_TNOPE": 8345.0,
+        "GTOFF_TNOPE": 7117.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "이매",
+        "GTON_TNOPE": 4806.0,
+        "GTOFF_TNOPE": 4393.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "보정",
+        "GTON_TNOPE": 1739.0,
+        "GTOFF_TNOPE": 1588.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "죽전",
+        "GTON_TNOPE": 11052.0,
+        "GTOFF_TNOPE": 12436.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "구성",
+        "GTON_TNOPE": 4864.0,
+        "GTOFF_TNOPE": 5026.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "신갈",
+        "GTON_TNOPE": 3081.0,
+        "GTOFF_TNOPE": 3100.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "기흥",
+        "GTON_TNOPE": 7963.0,
+        "GTOFF_TNOPE": 7266.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "상갈",
+        "GTON_TNOPE": 4121.0,
+        "GTOFF_TNOPE": 4124.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "청명",
+        "GTON_TNOPE": 3258.0,
+        "GTOFF_TNOPE": 3151.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "영통",
+        "GTON_TNOPE": 8026.0,
+        "GTOFF_TNOPE": 7802.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "망포",
+        "GTON_TNOPE": 10414.0,
+        "GTOFF_TNOPE": 9236.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "매탄권선",
+        "GTON_TNOPE": 3999.0,
+        "GTOFF_TNOPE": 3565.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "수원시청",
+        "GTON_TNOPE": 13019.0,
+        "GTOFF_TNOPE": 14182.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "분당선",
+        "SBWY_STNS_NM": "매교",
+        "GTON_TNOPE": 3667.0,
+        "GTOFF_TNOPE": 3522.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "서해선",
+        "SBWY_STNS_NM": "김포공항",
+        "GTON_TNOPE": 2832.0,
+        "GTOFF_TNOPE": 4204.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "서해선",
+        "SBWY_STNS_NM": "원종",
+        "GTON_TNOPE": 4146.0,
+        "GTOFF_TNOPE": 3940.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "서해선",
+        "SBWY_STNS_NM": "부천종합운동장",
+        "GTON_TNOPE": 1984.0,
+        "GTOFF_TNOPE": 1591.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "고색",
+        "GTON_TNOPE": 3214.0,
+        "GTOFF_TNOPE": 3122.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "오목천",
+        "GTON_TNOPE": 3344.0,
+        "GTOFF_TNOPE": 2625.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "어천",
+        "GTON_TNOPE": 1471.0,
+        "GTOFF_TNOPE": 1218.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "야목",
+        "GTON_TNOPE": 318.0,
+        "GTOFF_TNOPE": 273.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "사리",
+        "GTON_TNOPE": 3939.0,
+        "GTOFF_TNOPE": 3394.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "달월",
+        "GTON_TNOPE": 57.0,
+        "GTOFF_TNOPE": 73.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "월곶",
+        "GTON_TNOPE": 2550.0,
+        "GTOFF_TNOPE": 2316.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "소래포구",
+        "GTON_TNOPE": 5276.0,
+        "GTOFF_TNOPE": 5285.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "인천논현",
+        "GTON_TNOPE": 4839.0,
+        "GTOFF_TNOPE": 4930.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "호구포",
+        "GTON_TNOPE": 2802.0,
+        "GTOFF_TNOPE": 2717.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "남동인더스파크",
+        "GTON_TNOPE": 997.0,
+        "GTOFF_TNOPE": 943.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "원인재",
+        "GTON_TNOPE": 3864.0,
+        "GTOFF_TNOPE": 4046.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "연수",
+        "GTON_TNOPE": 4637.0,
+        "GTOFF_TNOPE": 4601.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "송도",
+        "GTON_TNOPE": 1906.0,
+        "GTOFF_TNOPE": 1865.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "인하대",
+        "GTON_TNOPE": 5176.0,
+        "GTOFF_TNOPE": 4804.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "숭의",
+        "GTON_TNOPE": 3145.0,
+        "GTOFF_TNOPE": 2825.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "신포",
+        "GTON_TNOPE": 1580.0,
+        "GTOFF_TNOPE": 1726.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "수인선",
+        "SBWY_STNS_NM": "인천",
+        "GTON_TNOPE": 1375.0,
+        "GTOFF_TNOPE": 2239.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "샛강",
+        "GTON_TNOPE": 1170.0,
+        "GTOFF_TNOPE": 1595.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "대방",
+        "GTON_TNOPE": 2670.0,
+        "GTOFF_TNOPE": 1832.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "서울지방병무청",
+        "GTON_TNOPE": 2417.0,
+        "GTOFF_TNOPE": 2545.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "보라매",
+        "GTON_TNOPE": 3149.0,
+        "GTOFF_TNOPE": 2835.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "보라매공원",
+        "GTON_TNOPE": 1534.0,
+        "GTOFF_TNOPE": 1499.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "보라매병원",
+        "GTON_TNOPE": 3720.0,
+        "GTOFF_TNOPE": 3835.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "당곡",
+        "GTON_TNOPE": 3846.0,
+        "GTOFF_TNOPE": 3617.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "신림",
+        "GTON_TNOPE": 1952.0,
+        "GTOFF_TNOPE": 2150.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "서원",
+        "GTON_TNOPE": 2840.0,
+        "GTOFF_TNOPE": 2459.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "서울대벤처타운",
+        "GTON_TNOPE": 8165.0,
+        "GTOFF_TNOPE": 7024.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "신림선",
+        "SBWY_STNS_NM": "관악산(서울대)",
+        "GTON_TNOPE": 3601.0,
+        "GTOFF_TNOPE": 3571.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "산본",
+        "GTON_TNOPE": 14003.0,
+        "GTOFF_TNOPE": 14822.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "대야미",
+        "GTON_TNOPE": 4252.0,
+        "GTOFF_TNOPE": 3659.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "반월",
+        "GTON_TNOPE": 3825.0,
+        "GTOFF_TNOPE": 3594.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "상록수",
+        "GTON_TNOPE": 12618.0,
+        "GTOFF_TNOPE": 12811.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "한대앞",
+        "GTON_TNOPE": 7952.0,
+        "GTOFF_TNOPE": 7900.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "중앙",
+        "GTON_TNOPE": 17456.0,
+        "GTOFF_TNOPE": 17963.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "고잔",
+        "GTON_TNOPE": 7438.0,
+        "GTOFF_TNOPE": 7348.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "초지",
+        "GTON_TNOPE": 3993.0,
+        "GTOFF_TNOPE": 3913.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "안산",
+        "GTON_TNOPE": 10644.0,
+        "GTOFF_TNOPE": 11611.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "신길온천",
+        "GTON_TNOPE": 1855.0,
+        "GTOFF_TNOPE": 1804.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "정왕",
+        "GTON_TNOPE": 7573.0,
+        "GTOFF_TNOPE": 7710.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "오이도",
+        "GTON_TNOPE": 7472.0,
+        "GTOFF_TNOPE": 7724.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "안산선",
+        "SBWY_STNS_NM": "수리산",
+        "GTON_TNOPE": 3077.0,
+        "GTOFF_TNOPE": 2527.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "북한산우이",
+        "GTON_TNOPE": 3964.0,
+        "GTOFF_TNOPE": 4203.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "솔밭공원",
+        "GTON_TNOPE": 2245.0,
+        "GTOFF_TNOPE": 2017.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "4.19민주묘지",
+        "GTON_TNOPE": 2697.0,
+        "GTOFF_TNOPE": 2296.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "가오리",
+        "GTON_TNOPE": 3385.0,
+        "GTOFF_TNOPE": 3185.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "화계",
+        "GTON_TNOPE": 2906.0,
+        "GTOFF_TNOPE": 2627.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "삼양",
+        "GTON_TNOPE": 1703.0,
+        "GTOFF_TNOPE": 1776.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "삼양사거리",
+        "GTON_TNOPE": 2185.0,
+        "GTOFF_TNOPE": 2076.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "솔샘",
+        "GTON_TNOPE": 4286.0,
+        "GTOFF_TNOPE": 3821.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "북한산보국문",
+        "GTON_TNOPE": 5231.0,
+        "GTOFF_TNOPE": 4494.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "정릉",
+        "GTON_TNOPE": 3858.0,
+        "GTOFF_TNOPE": 3120.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "성신여대입구(돈암)",
+        "GTON_TNOPE": 3241.0,
+        "GTOFF_TNOPE": 3745.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "보문",
+        "GTON_TNOPE": 1415.0,
+        "GTOFF_TNOPE": 1384.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "우이신설선",
+        "SBWY_STNS_NM": "신설동",
+        "GTON_TNOPE": 1675.0,
+        "GTOFF_TNOPE": 1602.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "원흥",
+        "GTON_TNOPE": 8486.0,
+        "GTOFF_TNOPE": 7978.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "지축",
+        "GTON_TNOPE": 1.0,
+        "GTOFF_TNOPE": 0.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "삼송",
+        "GTON_TNOPE": 15169.0,
+        "GTOFF_TNOPE": 14463.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "원당",
+        "GTON_TNOPE": 8767.0,
+        "GTOFF_TNOPE": 8138.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "화정",
+        "GTON_TNOPE": 13569.0,
+        "GTOFF_TNOPE": 14141.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "대곡",
+        "GTON_TNOPE": 2339.0,
+        "GTOFF_TNOPE": 2033.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "백석",
+        "GTON_TNOPE": 8382.0,
+        "GTOFF_TNOPE": 8509.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "마두",
+        "GTON_TNOPE": 5764.0,
+        "GTOFF_TNOPE": 5604.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "정발산",
+        "GTON_TNOPE": 6876.0,
+        "GTOFF_TNOPE": 7269.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "주엽",
+        "GTON_TNOPE": 7906.0,
+        "GTOFF_TNOPE": 7672.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "일산선",
+        "SBWY_STNS_NM": "대화",
+        "GTON_TNOPE": 9714.0,
+        "GTOFF_TNOPE": 8453.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "봉명",
+        "GTON_TNOPE": 838.0,
+        "GTOFF_TNOPE": 794.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "쌍용(나사렛대)",
+        "GTON_TNOPE": 2011.0,
+        "GTOFF_TNOPE": 1891.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "아산",
+        "GTON_TNOPE": 4142.0,
+        "GTOFF_TNOPE": 3657.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "탕정",
+        "GTON_TNOPE": 1742.0,
+        "GTOFF_TNOPE": 1634.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "배방",
+        "GTON_TNOPE": 1278.0,
+        "GTOFF_TNOPE": 1221.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "온양온천",
+        "GTON_TNOPE": 4815.0,
+        "GTOFF_TNOPE": 4763.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "장항선",
+        "SBWY_STNS_NM": "신창(순천향대)",
+        "GTON_TNOPE": 1321.0,
+        "GTOFF_TNOPE": 1378.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "회기",
+        "GTON_TNOPE": 21147.0,
+        "GTOFF_TNOPE": 19800.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "중랑",
+        "GTON_TNOPE": 4710.0,
+        "GTOFF_TNOPE": 4458.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "상봉",
+        "GTON_TNOPE": 5359.0,
+        "GTOFF_TNOPE": 5156.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "망우",
+        "GTON_TNOPE": 6808.0,
+        "GTOFF_TNOPE": 6646.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "양원",
+        "GTON_TNOPE": 2194.0,
+        "GTOFF_TNOPE": 2143.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "구리",
+        "GTON_TNOPE": 8233.0,
+        "GTOFF_TNOPE": 8739.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "도농",
+        "GTON_TNOPE": 7363.0,
+        "GTOFF_TNOPE": 6893.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "양정",
+        "GTON_TNOPE": 565.0,
+        "GTOFF_TNOPE": 453.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "덕소",
+        "GTON_TNOPE": 4841.0,
+        "GTOFF_TNOPE": 4826.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "도심",
+        "GTON_TNOPE": 1842.0,
+        "GTOFF_TNOPE": 1488.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "팔당",
+        "GTON_TNOPE": 1110.0,
+        "GTOFF_TNOPE": 1156.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "운길산",
+        "GTON_TNOPE": 877.0,
+        "GTOFF_TNOPE": 850.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "양수",
+        "GTON_TNOPE": 2369.0,
+        "GTOFF_TNOPE": 2371.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "신원",
+        "GTON_TNOPE": 221.0,
+        "GTOFF_TNOPE": 197.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "국수",
+        "GTON_TNOPE": 690.0,
+        "GTOFF_TNOPE": 640.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "아신",
+        "GTON_TNOPE": 618.0,
+        "GTOFF_TNOPE": 623.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "오빈",
+        "GTON_TNOPE": 300.0,
+        "GTOFF_TNOPE": 296.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "양평",
+        "GTON_TNOPE": 3079.0,
+        "GTOFF_TNOPE": 3295.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "원덕",
+        "GTON_TNOPE": 356.0,
+        "GTOFF_TNOPE": 385.0,
+        "REG_YMD": "20240903"
+    },
+    {
+        "USE_YMD": "20240831",
+        "SBWY_ROUT_LN_NM": "중앙선",
+        "SBWY_STNS_NM": "용문",
+        "GTON_TNOPE": 2463.0,
+        "GTOFF_TNOPE": 2768.0,
+        "REG_YMD": "20240903"
+    }
+]
