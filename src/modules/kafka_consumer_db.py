@@ -4,6 +4,7 @@ import psycopg2
 
 def run():
     # Kafka 컨슈머 인스턴스 생성
+    # KafkaConsumer(topic, group_id, bootstrap_servers)
     consumer = KafkaConsumer('api_call',
                             group_id='test-group',
                             bootstrap_servers=['localhost:9092'])
@@ -39,7 +40,7 @@ def preprocess(message, spot):
         message_values = (USE_YMD, SBWY_ROUT_LN_NM, SBWY_STNS_NM, GTON_TNOPE, GTOFF_TNOPE, REG_YMD)
         return message_values
 
-# 메시지 전송 함수 정의
+# 데이터베이스로 메시지 전송 함수 정의
 def transport(message):
     # PostgreSQL 데이터베이스에 연결
     conn = psycopg2.connect(dbname='api_call', user='postgres', password='postgres', host='127.0.0.1', port=5432)
