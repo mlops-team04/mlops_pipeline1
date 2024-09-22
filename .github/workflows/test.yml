@@ -1,7 +1,27 @@
-name: Our First Workflow
-on: push
+name: Deploy to EC2 Instance
+# 언제 작동을 시킬지
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+    paths:
+      - 'airflow/dags/**'
+
+
+# 어떤 job을 할지
 jobs:
-  echo:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - run: echo 'Hello, GitHub Actions!'
+      - uses: actions/checkout@v3
+      - name: ssh to ec2
+        uses: appleboy/ssh-action@master
+        with:
+          key: ${{ secrets.REMOTE_SSH_KEY }}
+          host: ${{ secrets.REMOTE_SSH_HOST }}
+          username: ${{ secrets.REMOTE_SSH_USERNAME }}
+
+
