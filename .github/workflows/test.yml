@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - feature1
-    paths:
-      - 'airflow/dags/**'
 
 jobs:
   deploy:
@@ -23,7 +21,7 @@ jobs:
           key: ${{ secrets.REMOTE_SSH_KEY }}
           port: ${{ secrets.REMOTE_SSH_PORT }}
           script: |
-            cd /home/ubuntu/mlops_pipeline1/airflow/dags
+            cd /home/ubuntu/mlops_pipeline1
             git pull origin feature1
 
 
