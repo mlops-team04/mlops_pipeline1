@@ -1,34 +1,27 @@
 name: Deploy to EC2 Instance
-# 언제 작동을 시킬지
+
 on:
   workflow_dispatch:
   push:
     branches:
       - feature1
-
     paths:
       - 'airflow/dags/**'
 
-
-# 어떤 job을 할지
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
-      - name: ssh to ec2
+
+      - name: SSH to EC2
         uses: appleboy/ssh-action@master
         with:
-          run: |
-            echo "$SSH_PEM_KEY" >> $HOME/key.pem
-            chmod 400 $HOME/key.pem
-            ssh -i $HOME/key.pem -o StrictHostKeyChecking=no ${SSH_USER}@${SSH_KNOWN_HOSTS} '~/script.sh'
-
-          port: ${{ secrets.REMOTE_SSH_PORT }}
-          key: ${{ secrets.REMOTE_SSH_KEY }}
           host: ${{ secrets.REMOTE_SSH_HOST }}
           username: ${{ secrets.REMOTE_SSH_USERNAME }}
+          key: ${{ secrets.REMOTE_SSH_KEY }}
+          port: ${{ secrets.REMOTE_SSH_PORT }}
           script: |
             cd /home/ubuntu/mlops_pipeline1/airflow/dags 
             git pull
