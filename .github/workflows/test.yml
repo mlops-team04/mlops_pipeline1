@@ -20,6 +20,11 @@ jobs:
       - name: ssh to ec2
         uses: appleboy/ssh-action@master
         with:
+          run: |
+            echo "$SSH_PEM_KEY" >> $HOME/key.pem
+            chmod 400 $HOME/key.pem
+            ssh -i $HOME/key.pem -o StrictHostKeyChecking=no ${SSH_USER}@${SSH_KNOWN_HOSTS} '~/script.sh'
+
           port: ${{ secrets.REMOTE_SSH_PORT }}
           key: ${{ secrets.REMOTE_SSH_KEY }}
           host: ${{ secrets.REMOTE_SSH_HOST }}
