@@ -22,9 +22,8 @@ jobs:
           username: ${{ secrets.REMOTE_SSH_USERNAME }}
           key: ${{ secrets.REMOTE_SSH_KEY }}
           port: ${{ secrets.REMOTE_SSH_PORT }}
-          script: |
-            cd /home/ubuntu/mlops_pipeline1/airflow/dags 
-            git pull
+          script: whoami
+
 
 
 
