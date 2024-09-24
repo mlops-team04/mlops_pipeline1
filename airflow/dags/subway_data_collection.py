@@ -23,7 +23,7 @@ dag = DAG(
     default_args=default_args,
     description='Collect subway data daily',
     schedule_interval='30 19 * * *',
-    catchup=True # start_data 이후에 있는 데이터까지 다 가져옴
+    catchup=False # start_data 이후에 있는 데이터까지 다 가져옴
 )
 
 
