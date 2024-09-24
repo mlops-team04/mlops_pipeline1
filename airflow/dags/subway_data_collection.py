@@ -1,4 +1,5 @@
-from api_call import *
+from Subway_data.api_call import *
+from Subway_data.main import *
 from kafka import KafkaProducer
 from datetime import datetime, timedelta
 from datetime import datetime, timedelta
@@ -49,11 +50,11 @@ task_collect_data = BashOperator(
 )
 
 # 카프카로 내보내는 파일
-# task_send_to_kafka = BashOperator(
-#    task_id='send_to_kafka',
-#    bash_command='python ../../Subway_data/send_to_kafka.py',  # Kafka로 내보내는 스크립트 경로
-#    dag=dag,
-# )
+task_send_to_kafka = BashOperator(
+   task_id='send_to_kafka',
+   bash_command='python ../../Subway_data/send_to_kafka.py',  # Kafka로 내보내는 스크립트 경로
+   dag=dag,
+)
 
 # 끝을 알리는 dummy:
 task_finish = EmptyOperator(
