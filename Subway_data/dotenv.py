@@ -1,2 +1,0 @@
-def load_dotenv():
-    API_KEY = '6365614a5a736c6436306164486350'

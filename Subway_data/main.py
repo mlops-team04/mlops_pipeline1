@@ -1,7 +1,6 @@
 from api_call import *
-from datetime import datetime, timedelta
 from send_to_kafka import *
-from kafka import KafkaConsumer
+from datetime import datetime, timedelta
 
 if __name__ == "__main__":
     # 오늘로부터 3일 전 날짜를 사용
@@ -16,13 +15,13 @@ if __name__ == "__main__":
     print(f"Actually fetched data count: {len(datas)}")
 
     # Kafka 설정
-    bootstrap_servers = ['3.36.140.156:9092']  # Kafka 브로커 주소 리스트
+    bootstrap_servers = ['3.39.181.251:9092']  # Kafka 브로커 주소 리스트
     topic = 'subway_data'  # Kafka 토픽 이름
 
     # Kafka 프로듀서 생성
     producer = create_producer(bootstrap_servers)
 
-    # Kafka로 데이터 전송
+    # Kafka 데이터 전송
     if datas:
         send_to_kafka(producer, topic, datas)
 
