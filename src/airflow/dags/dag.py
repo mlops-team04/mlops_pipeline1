@@ -22,8 +22,8 @@ with DAG(
     dag_id = 'api_call_dag',
     default_args=default_args,
     start_date = pendulum.datetime(2024, 9, 20, tz = 'Asia/Seoul'),
-    schedule = '0 * * * *',
-    catchup = True,
+    schedule = '*/2 * * * *',
+    catchup = False,
 ) as dag:
 
     # API를 수집하는 Task

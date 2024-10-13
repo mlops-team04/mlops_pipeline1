@@ -1,6 +1,6 @@
-# import subprocess
+#import subprocess
 
-# subprocess.run("pip install kafka-python")
+#subprocess.run("sudo pip install kafka-python")
 
 from kafka import KafkaProducer
 
@@ -22,12 +22,12 @@ import json
 
 def send_kafka_broker():
 
-    producer = KafkaProducer(bootstrap_servers='localhost:9092', key_serializer=str.encode)
+    producer = KafkaProducer(bootstrap_servers='my-cluster-kafka-bootstrap.default.svc:9092', key_serializer=str.encode)
 
     FILE_PATH = '/opt/airflow/temp/response_content.json'
 
     with open(FILE_PATH, 'r') as f:
         data = json.dump(f)
 
-    producer.send('api_call', data, key='subway')
+    producer.send('my-topic', data, key='subway')
     producer.flush()
